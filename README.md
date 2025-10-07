@@ -19,7 +19,6 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** https://drive.google.com/file/d/1u_V7CB1IAnkbrodkLnb_yQ4Ccw_5nHjc/view?usp=sharing
 - **Video Demonstration:** [https://youtu.be/xkfmYuaC5JY?si=WM-XBFj7MtE8SI8c](UNLISTED YOUTUBE LINK)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+
