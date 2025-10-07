@@ -13,7 +13,7 @@ This README provides an overview of the project, including team details, relevan
 - **MEMBER_1** - 2024UME7055 - [anubhaparesh04](https://github.com/anubhaparesh04)
 - **MEMBER_2** - 2024UEE4179 - [arushi1604](https://github.com/arushi1604)
 - **MEMBER_3** - 2024UME4125 - [addybhaibot](https://github.com/addybhaibot)
-- **MEMBER_4** - 2024UBT7659 - [DM-06](https://github.com/DM-06)
+- **MEMBER_4** - 2024UBT7659 - [deveek12](https://github.com/deveek12)
 - **MEMBER_5** - 2024UME4113 - [Mehrangarhfortcom](https://github.com/mehrangarhfortcom)
 - **MEMBER_6** - 2024UME4114 - [AroraParas15](https://github.com/AroraParas15)
 
